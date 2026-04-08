@@ -3,6 +3,7 @@
 **Aluno:** Marcelo Monnerat Castello  
 **Matrícula:** 4052026000091  
 **Curso:** PUC Rio — Pós-Graduação em Ciência de Dados
+**Link do Colab:** https://colab.research.google.com/github/MonneratRJ/mvp-inflacao/blob/master/notebooks/analysis.ipynb
 
 ---
 
